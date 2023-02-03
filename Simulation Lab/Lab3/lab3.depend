@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560934504 source:d:\lec\s&m\simulation and modelling lab report(072-bct-54)\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
